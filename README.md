@@ -6,6 +6,8 @@
 ## Sobre o projeto
 
 O projeto de análise de dados do Ministério do Trabalho e Previdência através do PDET é uma iniciativa que disponibiliza microdados sobre movimentações no mercado de trabalho formal. Estes dados detalham registros de admissões e demissões em cada estabelecimento, oferecendo uma visão mais abrangente e detalhada dessas transações. Isso possibilita análises mais precisas e aprofundadas sobre o panorama do mercado de trabalho, ajudando na compreensão de tendências, comportamentos e impactos de políticas governamentais ou econômicas.
+
+
 ![caged_mensal_atualizado_Andrei-01](https://github.com/andrei0118/Analise-Mercado-Trabalho/assets/75299828/016859fc-58c9-4a32-9060-3908443bc4d4)
 ![caged_mensal_atualizado_Andrei-02](https://github.com/andrei0118/Analise-Mercado-Trabalho/assets/75299828/2246ea88-da32-4675-8e2e-182b18042659)
 ![caged_mensal_atualizado_Andrei-03](https://github.com/andrei0118/Analise-Mercado-Trabalho/assets/75299828/9e84061c-e35f-468d-b328-777dab773e3d)
