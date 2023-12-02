@@ -1,6 +1,6 @@
-# Análise Mercado de Trabalho - Ministério do Trabalho e Previdência
+## Análise Mercado de Trabalho - Ministério do Trabalho e Previdência
 
-## Licença  
+### Licença  
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/andrei0118/gn-vendas/blob/master/LICENSE)
 
 ## Sobre o projeto
@@ -22,7 +22,7 @@ O projeto de análise de dados do Ministério do Trabalho e Previdência atravé
 ![caged_mensal_atualizado_Andrei-12](https://github.com/andrei0118/Analise-Mercado-Trabalho/assets/75299828/8fc7c4b7-b910-4c8d-8d15-25a72d0ef7c9)
 ![caged_mensal_atualizado_Andrei-13](https://github.com/andrei0118/Analise-Mercado-Trabalho/assets/75299828/ad36e011-32ff-47e1-aff3-b498a975cd02)
 
-# Como executar o projeto
+## Como executar o projeto
 
 - Instalar as dependencias do R e Rstudio.
 - Foi utilizado o banco de dados em execel.
@@ -30,8 +30,9 @@ O projeto de análise de dados do Ministério do Trabalho e Previdência atravé
 
 ## Ferramentas
 
-Rstudio
+- Rstudio
 
 ## Autor
-Andrei Camilo dos Santos
-https://www.linkedin.com/in/andrei0118-santos
+
+- Andrei Camilo dos Santos
+- https://www.linkedin.com/in/andrei0118-santos
