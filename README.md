@@ -28,7 +28,7 @@ O projeto de análise de dados do Ministério do Trabalho e Previdência atravé
 
 ## Ferramentas
 
-Microsoft Power BI
+Rstudio
 
 ## Autor
 Andrei Camilo dos Santos
